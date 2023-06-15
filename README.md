@@ -1,8 +1,6 @@
 # LABLAB-TouchDesigner-Template
 Touch Designer  LABLAB Template with OSCV3 output
 
-A [TouchDesigner](https://derivative.ca/) Augmenta plugin created by [Gamgie](http://www.gamgie.com/) and [THEORIZ](http://www.theoriz.com/en/).
-
 ## Template
 
 ### Scene examples
